@@ -13,8 +13,22 @@ A beginner-friendly, modular PlayerController for Unity. Designed for clarity, c
 ## 🖼️ Previews
 Available in the main directory
 
-## 📄 License
-Custom license included in [LICENSE.txt](LICENSE.txt)
+- **LICENSE**  
+  Custom license terms for use, modification, and redistribution. See below for details.
+
+## 📜 License
+
+This asset is released under a custom license tailored for Unity developers. You are free to:
+
+- Use this asset in personal and commercial projects
+- Modify and extend it for your own needs
+- Share modified versions with proper attribution
+
+You **may not** resell the original asset or claim it as your own.
+
+👉 **See [`LICENSE`](./LICENSE)** for full terms.
+
+
 
 Support
 If you have questions, feedback, or bug reports, please use one of the following:
