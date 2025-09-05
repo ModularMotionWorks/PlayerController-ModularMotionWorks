@@ -26,7 +26,7 @@ This asset is released under a custom license tailored for Unity developers. You
 
 You **may not** resell the original asset or claim it as your own.
 
-👉 **See [`LICENSE`](./LICENSE)** for full terms.
+👉 **See LICENSE for full terms and conditions 
 
 
 
