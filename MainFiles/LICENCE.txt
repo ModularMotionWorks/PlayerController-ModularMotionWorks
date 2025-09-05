@@ -1,0 +1,14 @@
+License Type: Personal and Commercial Use (Non-Redistributable)
+
+You are granted a non-exclusive, non-transferable license to use this asset in Unity-based projects, including commercial games and applications.
+
+✅ You may:
+- Modify the PlayerMovement & PlayerLook and related scripts for use in your own Unity projects.
+- Include the asset in compiled builds distributed to end users.
+
+❌ You may not:
+- Resell, repackage, or redistribute this asset as part of another asset pack, template, or open-source repository.
+- Share the raw asset files publicly, including on forums, GitHub, or file-sharing platforms.
+- Claim authorship of the original asset or its components.
+
+Violations of this license may result in takedown requests and legal action.
