@@ -1,0 +1,12 @@
+Copyright (c) 2025 TechScafflod and Modular Motion Works
+
+Permission is hereby granted to use, modify, and integrate the assets contained in this project
+for the sole purpose of creating and distributing interactive game experiences.
+
+Restrictions:
+- Assets may NOT be sold, licensed, or redistributed as standalone content.
+- Assets may NOT be repackaged or marketed outside of a game project.
+- Modifications are allowed, but derivative works must also remain bound by this restriction.
+
+This license applies to all scripts, prefabs, scenes, and UI elements included in the project.
+
